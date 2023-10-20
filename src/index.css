@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #1c1c1c #eee;
+}
+
+*::-webkit-scrollbar {
+  width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #eee;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #1c1c1c;
+  border-radius: 10px;
+  border: 3px solid #eee;
+}
+
+@font-face {
+  font-family: "RobotoMedium";
+  src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: "RobotoRegular";
+  src: url(./assets/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: "RobotoBold";
+  src: url(./assets/fonts/Roboto-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Popping-cute";
+  src: url(./assets/fonts/Popping-Cute.otf);
+}
+
+@font-face {
+  font-family: "Winter-Poppins";
+  src: url(./assets/fonts/Winter-Poppins.ttf);
+}
+
+@font-face {
+  font-family: Plasto;
+  src: url(./assets/fonts/Plasto.otf);
+}
+
+@font-face {
+  font-family: Brandier;
+  src: url(./assets/fonts/BrandierTrial-Bold.otf);
+}
+
+.logo-animation {
+  animation: animate001 5s ease-in-out infinite;
+}
+
+@keyframes animate001 {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-30px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
