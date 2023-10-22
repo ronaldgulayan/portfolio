@@ -26,7 +26,7 @@ function Footer() {
         {icons.map((icon, i) => {
           return (
             <Tooltip key={i} title={icon.label} arrow>
-              <a href={icon.url}>
+              <a href={icon.url} target='_blank'>
                 <icon.Icon className='w-5 h-5 text-darkest cursor-pointer' />
               </a>
             </Tooltip>
