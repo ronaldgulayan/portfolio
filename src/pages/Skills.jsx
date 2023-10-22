@@ -13,9 +13,6 @@ import {
 import { RiJavascriptFill } from "react-icons/ri";
 import { BiLogoTailwindCss } from "react-icons/bi";
 import { SiMysql } from "react-icons/si";
-import { wrapGrid } from "animate-css-grid";
-// import shuffle from "lodash.shuffle";
-// import { Flipped, Flipper } from "react-flip-toolkit";
 
 const Item = ({ percentage = 0, label = "label", Icon }) => {
   const convertPercentage = (percentage) => {
@@ -108,7 +105,7 @@ function Skills() {
       id: crypto.randomUUID(),
       label: "c#",
       value: 60,
-      icon: "/icons/csharp.png",
+      icon: "./icons/csharp.png",
     },
     {
       id: crypto.randomUUID(),

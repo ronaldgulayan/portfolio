@@ -37,7 +37,7 @@ function Home() {
       <div className='flex items-center'>
         <img
           className='duration-200 w-full md:w-[80%] object-cover logo-animation'
-          src='/logo/nata.png'
+          src='./logo/nata.png'
           draggable={false}
         />
       </div>

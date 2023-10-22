@@ -6,23 +6,23 @@
       "description": "I designed and implemented a customized Point of Sale (POS) system specifically tailored for 'The Meat Masters.' This comprehensive POS solution streamlines the ordering and payment processes, enhancing the customer experience and optimizing the business operations. The system features inventory management, sales reporting, and real-time transaction tracking. 'The Meat Masters' POS project demonstrates my expertise in software development, user interface design, and business efficiency improvement, showcasing my commitment to delivering solutions that elevate the retail experience.",
       "language": ["C#", "MySQL"],
       "image": [
-        "/project/proj1/img1.png",
-        "/project/proj1/img2.png",
-        "/project/proj1/img3.png",
-        "/project/proj1/img4.png",
-        "/project/proj1/img5.png",
-        "/project/proj1/img6.png",
-        "/project/proj1/img7.png",
-        "/project/proj1/img8.png",
-        "/project/proj1/img9.png",  
-        "/project/proj1/img10.png",
-        "/project/proj1/img11.png",
-        "/project/proj1/img12.png",
-        "/project/proj1/img13.png",
-        "/project/proj1/img14.png"
+        "./project/proj1/img1.png",
+        "./project/proj1/img2.png",
+        "./project/proj1/img3.png",
+        "./project/proj1/img4.png",
+        "./project/proj1/img5.png",
+        "./project/proj1/img6.png",
+        "./project/proj1/img7.png",
+        "./project/proj1/img8.png",
+        "./project/proj1/img9.png",  
+        "./project/proj1/img10.png",
+        "./project/proj1/img11.png",
+        "./project/proj1/img12.png",
+        "./project/proj1/img13.png",
+        "./project/proj1/img14.png"
       ],
       "url": "",
-      "video": "/project/proj1/vid.mp4",
+      "video": "./project/proj1/vid.mp4",
       "type": "desktop"
     },
     {
@@ -42,24 +42,24 @@
       "description": "I conceptualized and developed an efficient and user-friendly Attendance Management System tailored to meet the needs of educational institutions and businesses alike. This system simplifies the process of recording and tracking attendance, automating routine tasks and providing real-time insights into attendance patterns. With features such as reporting, notifications, and easy integration with existing systems, this project demonstrates my expertise in software development, database management, and my commitment to streamlining attendance processes to improve productivity and accountability.",
       "language": ["C#", "MySQL"],
       "image": [
-        "/project/proj2/img1.png",
-        "/project/proj2/img2.png",
-        "/project/proj2/img3.png",
-        "/project/proj2/img4.png",
-        "/project/proj2/img5.png",
-        "/project/proj2/img6.png",
-        "/project/proj2/img7.png",
-        "/project/proj2/img8.png",
-        "/project/proj2/img9.png",
-        "/project/proj2/img10.png",
-        "/project/proj2/img11.png",
-        "/project/proj2/img12.png",
-        "/project/proj2/img13.png",
-        "/project/proj2/img14.png",
-        "/project/proj2/img15.png"
+        "./project/proj2/img1.png",
+        "./project/proj2/img2.png",
+        "./project/proj2/img3.png",
+        "./project/proj2/img4.png",
+        "./project/proj2/img5.png",
+        "./project/proj2/img6.png",
+        "./project/proj2/img7.png",
+        "./project/proj2/img8.png",
+        "./project/proj2/img9.png",
+        "./project/proj2/img10.png",
+        "./project/proj2/img11.png",
+        "./project/proj2/img12.png",
+        "./project/proj2/img13.png",
+        "./project/proj2/img14.png",
+        "./project/proj2/img15.png"
       ],
       "url": "",
-      "video": "/project/proj2/attendance.mp4",
+      "video": "./project/proj2/attendance.mp4",
       "type": "desktop"
     },
     {
@@ -68,16 +68,16 @@
       "description": "I developed a robust School Management System to streamline administrative tasks and enhance efficiency within educational institutions. This system offers a comprehensive set of features, including student enrollment, attendance tracking, grade management, and communication tools for teachers, students, and parents. It has significantly reduced administrative overhead and improved communication between stakeholders, showcasing my skills in software development, database management, and a deep understanding of the education sector. The School Management System exemplifies my commitment to leveraging technology to solve real-world problems.",
       "language": ["Java", "MySQL"],
       "image": [
-        "/project/proj3/img1.png",
-        "/project/proj3/img2.png",
-        "/project/proj3/img3.png",
-        "/project/proj3/img4.png",
-        "/project/proj3/img5.png",
-        "/project/proj3/img6.png",
-        "/project/proj3/img7.png"
+        "./project/proj3/img1.png",
+        "./project/proj3/img2.png",
+        "./project/proj3/img3.png",
+        "./project/proj3/img4.png",
+        "./project/proj3/img5.png",
+        "./project/proj3/img6.png",
+        "./project/proj3/img7.png"
       ],
       "url": "",
-      "video": "/project/proj3/vid.MP4",
+      "video": "./project/proj3/vid.MP4",
       "type": "desktop"
     },
     {
@@ -86,13 +86,13 @@
       "description": "I designed and developed a user-friendly shop ordering system in Java to enhance the customer experience. This application allows users to browse a catalog, customize orders, and complete secure transactions with ease. Real-time inventory tracking and order status updates were integrated to provide users with up-to-date information. The project reflects my skills in Java programming, user interface design, and database integration, showcasing my commitment to streamlining and simplifying the shopping process.",
       "language": ["Java", "MySQL"],
       "image": [
-        "/project/proj4/img1.png",
-        "/project/proj4/img2.png",
-        "/project/proj4/img3.png",
-        "/project/proj4/img4.png"
+        "./project/proj4/img1.png",
+        "./project/proj4/img2.png",
+        "./project/proj4/img3.png",
+        "./project/proj4/img4.png"
       ],
       "url": "",
-      "video": "/project/proj4/shop_system.MP4",
+      "video": "./project/proj4/shop_system.MP4",
       "type": "desktop"
     },
     {
@@ -101,12 +101,12 @@
       "description": "I conceived and created a comprehensive portfolio application designed to showcase my skills and achievements. This interactive platform not only presents a curated collection of my work but also offers visitors an immersive experience. The application demonstrates my proficiency in web development, user experience design, and content organization. It serves as a testament to my commitment to professional growth and the ability to present my portfolio in a dynamic and engaging manner.",
       "language": ["Java"],
       "image": [
-        "/project/proj5/img1.jpg",
-        "/project/proj5/img2.jpg",
-        "/project/proj5/img3.jpg",
-        "/project/proj5/img4.jpg",
-        "/project/proj5/img5.jpg",
-        "/project/proj5/img6.jpg"
+        "./project/proj5/img1.jpg",
+        "./project/proj5/img2.jpg",
+        "./project/proj5/img3.jpg",
+        "./project/proj5/img4.jpg",
+        "./project/proj5/img5.jpg",
+        "./project/proj5/img6.jpg"
       ],
       "url": "https://www.mediafire.com/file/hs7hleonj8ymv4q/exampleApp.apk/file",
       "url_label": "Download App",

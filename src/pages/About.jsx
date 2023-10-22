@@ -14,7 +14,7 @@ function About() {
         <div className='flex justify-center' data-aos='fade-right'>
           <img
             className='w-72 h-72 border-8 shadow-md border-slate-400 object-cover rounded-full'
-            src='/img/ron.jpg'
+            src='./img/ron.jpg'
           />
         </div>
         <div
@@ -81,7 +81,7 @@ function About() {
             <LightButton
               onClick={() => {
                 const element = document.createElement("a");
-                element.href = "../assets/document/CV.pdf";
+                element.href = "./documents/CV.pdf";
                 element.download = "ronaldgulayan_cv.pdf";
                 element.click();
               }}

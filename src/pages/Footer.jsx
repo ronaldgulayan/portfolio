@@ -7,18 +7,13 @@ function Footer() {
   const icons = [
     {
       label: "Facebook",
-      url: "",
+      url: "https://www.facebook.com/ronald.gulayan/",
       Icon: FaFacebook,
     },
     {
       label: "Github",
-      url: "",
+      url: "https://github.com/ronaldgulayan",
       Icon: FaGithub,
-    },
-    {
-      label: "Email",
-      url: "",
-      Icon: MdEmail,
     },
   ];
 
@@ -31,9 +26,9 @@ function Footer() {
         {icons.map((icon, i) => {
           return (
             <Tooltip key={i} title={icon.label} arrow>
-              <span>
+              <a href={icon.url}>
                 <icon.Icon className='w-5 h-5 text-darkest cursor-pointer' />
-              </span>
+              </a>
             </Tooltip>
           );
         })}

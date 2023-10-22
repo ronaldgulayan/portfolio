@@ -29,7 +29,7 @@ function Status() {
 
   return (
     <ParallaxBanner
-      layers={[{ image: "/img/universe.jpg", speed: 15 }]}
+      layers={[{ image: "./img/universe.jpg", speed: 15 }]}
       className='aspect-[2/1] h-40'
     >
       <div
