@@ -28,13 +28,6 @@ function App() {
     data: null,
   });
 
-  // useEffect(() => {
-  //   const grids = document.querySelectorAll(".grid");
-  //   grids.forEach((grid) => {
-  //     console.log(grid);
-  //   });
-  // }, []);
-
   const callback = (entries, observe) => {
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
