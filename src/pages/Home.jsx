@@ -11,15 +11,12 @@ function Home() {
         <h1 className="text-4xl font-roboto-bold">Hello!</h1>
         <a href="https://www.facebook.com/ronald.gulayan">
           <img
-            src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=700&color=FFFFFF&vCenter=true&width=300&lines=I'm+Ronald+Gulayan.;I'm+Developer.;I+love+coding.;Playing+ol+games."
+            src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=700&color=FFFFFF&vCenter=true&width=300&lines=I'm+Ronald+Gulayan.;Freelancer;Programmer;Software+Developer."
             alt="Typing SVG"
           />
         </a>
-        <p className="text-[1.2rem] leading-6 font-roboto-medium text-slate-300">
-          Future Application Developer or Web Developer. This website contains
-          information about myself and the applications I have created. I am a
-          person who loves to explore things, especially when it comes to
-          technology.
+        <p className="text-[1.2rem] font-roboto-medium text-slate-300 mb-2">
+          I am a passionate developer with a strong curiosity for technology and a constant drive to explore, learn, and build. Whether it’s web or software development, I take pride in creating meaningful and efficient solutions through code.
         </p>
         <CubeButton
           onClick={() => {

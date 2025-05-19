@@ -156,6 +156,17 @@
       "url_label": "Example",
       "video": "",
       "type": "website"
+    },
+    {
+      "id": 11,
+      "title": "Online Appointment System",
+      "description": "I designed and developed a simple yet effective web-based Online Appointment System that enables users to schedule, view, and manage appointments efficiently. This project showcases essential web development skills such as form handling, database integration, real-time updates, and user authentication. Built using technologies like HTML, CSS, JavaScript, and a backend framework, the system streamlines the booking process while demonstrating core functionalities such as CRUD operations, calendar-based scheduling, and automated confirmation notifications.",
+      "image": [],
+      "language": ["HTML", "CSS", "Javascript", "Supabase", "React"],
+      "url": "https://granbyappointment.netlify.app/",
+      "url_label": "Go to appointment system",
+      "video": "",
+      "type": "website"
     }
   ]
 }
